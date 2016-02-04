@@ -1,0 +1,66 @@
+#div1-showing {
+  display: none;
+}
+
+#div2-showing {
+  display: none;
+}
+#div3-showing {
+  display: none;
+}
+
+#div4-showing {
+  display: none;
+}
+#div5-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+
+.clickable2:hover {
+  text-decoration: underline;
+}
+
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable3:hover {
+  text-decoration: underline;
+}
+
+
+.clickable4:hover {
+  text-decoration: underline;
+}
+
+.clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable5:hover {
+  text-decoration: underline;
+}
